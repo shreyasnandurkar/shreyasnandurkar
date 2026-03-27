@@ -20,33 +20,7 @@ I am a B.Tech CSE (Core) student at Manipal Institute of Technology, Bangalore, 
 
 Right now, I am strengthening my core foundations by mastering Data Structures & Algorithms, while simultaneously deepening my practical expertise in Spring Boot and Java Backend Development. I am actively exploring microservices architecture, API design, and secure authentication, and contributing to open-source Java projects with a strong focus on production-grade code quality.
 
-
 <br>
-
- <!-- LANGUAGES BREAKDOWN START -->
-```
-[ LANGUAGES BREAKDOWN ]
-
-Java                      -->     29,395 lines
-JavaScript                -->      2,385 lines
-TypeScript                -->      1,656 lines
-C                         -->      1,194 lines
-DOS Batch                 -->        585 lines
-JSX                       -->        569 lines
-C++                       -->        455 lines
-SQL                       -->        139 lines
-Python                    -->        103 lines
-Dockerfile                -->        101 lines
-Windows Resource File     -->         69 lines
-Protocol Buffers          -->         52 lines
-Bourne Shell              -->         43 lines
-Kotlin                    -->         11 lines
-
-[ TOTAL LINES OF CODE: 36,654]
-```
- <!-- LANGUAGES BREAKDOWN END -->
-
- <br>
 
 # 🌐 Connect With Me
 
@@ -195,6 +169,30 @@ _(Where I solve problems, compete, and level up 🚀)_
   <img src="icons/jupyter.svg" width="40" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 </p>
 
+<br>
+
+ <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+
+Java                      -->     29,395 lines
+JavaScript                -->      2,385 lines
+TypeScript                -->      1,656 lines
+C                         -->      1,194 lines
+DOS Batch                 -->        585 lines
+JSX                       -->        569 lines
+C++                       -->        455 lines
+SQL                       -->        139 lines
+Python                    -->        103 lines
+Dockerfile                -->        101 lines
+Windows Resource File     -->         69 lines
+Protocol Buffers          -->         52 lines
+Bourne Shell              -->         43 lines
+Kotlin                    -->         11 lines
+
+[ TOTAL LINES OF CODE: 36,654]
+```
+ <!-- LANGUAGES BREAKDOWN END -->
 <br>
 
 # 📊 GitHub Stats
