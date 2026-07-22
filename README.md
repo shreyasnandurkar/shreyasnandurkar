@@ -1,7 +1,3 @@
-<!--
-  Place banner.svg at  assets/banner.svg  in your profile repo
-  (github.com/shreyasnandurkar/shreyasnandurkar).
--->
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Shreyas Nandurkar — Backend Engineer" />
 </p>
@@ -38,7 +34,6 @@ Co-founder and backend engineer. Short links, click analytics, and customizable 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
-<!-- FILL: live URL + repo -->
 <a href="https://golinkgone.com"><img src="https://img.shields.io/badge/Live-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/go-link-gone/glg-backend"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
@@ -120,19 +115,9 @@ Codeforces Expert · LeetCode Guardian (2142) · active on CodeChef and AtCoder.
 
 ## GitHub Stats
 
-<!--
-  Cards below use the public github-readme-stats instance, which gets
-  rate-limited (blank/error cards) and can't read private repos. For reliable
-  cards + accurate Top Languages, self-host it (~10 min):
-    1. Fork  github.com/anuraghazra/github-readme-stats
-    2. Deploy the fork to Vercel (free) with a GitHub PAT as env var PAT_1
-    3. Replace  github-readme-stats.vercel.app  below with  <your-app>.vercel.app
-  Colors below are tuned to match the banner.
--->
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyasnandurkar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=22D3EE&text_color=94A3B8&bg_color=0B1021" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyasnandurkar&layout=compact&hide_border=true&hide=html,css,scss&langs_count=8&title_color=8B5CF6&text_color=94A3B8&bg_color=0B1021" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shreyasnandurkar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=22D3EE&text_color=94A3B8&bg_color=0B1021&hide_rank=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=shreyasnandurkar&layout=compact&hide_border=true&hide=html,css,scss&langs_count=8&title_color=8B5CF6&text_color=94A3B8&bg_color=0B1021" />
 </p>
 
 <p align="center">
