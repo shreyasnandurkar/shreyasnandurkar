@@ -1,0 +1,51 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="0.55" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#182036"/>
+    </pattern>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="#0B1021"/>
+  <rect width="1200" height="300" fill="url(#dots)" opacity="0.6"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect x="0" y="0" width="6" height="300" fill="url(#accent)"/>
+
+  <!-- systems / gateway motif -->
+  <g stroke="url(#accent)" stroke-width="1.4" opacity="0.5">
+    <line x1="1000" y1="150" x2="885" y2="98"/>
+    <line x1="1000" y1="150" x2="1012" y2="70"/>
+    <line x1="1000" y1="150" x2="1132" y2="118"/>
+    <line x1="1000" y1="150" x2="1092" y2="212"/>
+    <line x1="1000" y1="150" x2="958" y2="242"/>
+    <line x1="1000" y1="150" x2="872" y2="188"/>
+    <line x1="1012" y1="70" x2="1132" y2="118" opacity="0.6"/>
+    <line x1="958" y1="242" x2="1092" y2="212" opacity="0.6"/>
+    <line x1="885" y1="98" x2="872" y2="188" opacity="0.6"/>
+  </g>
+  <g fill="#0B1021" stroke="url(#accent)" stroke-width="2">
+    <circle cx="885" cy="98" r="6"/>
+    <circle cx="1012" cy="70" r="6"/>
+    <circle cx="1132" cy="118" r="6"/>
+    <circle cx="1092" cy="212" r="6"/>
+    <circle cx="958" cy="242" r="6"/>
+    <circle cx="872" cy="188" r="6"/>
+  </g>
+  <circle cx="1000" cy="150" r="11" fill="url(#accent)"/>
+
+  <!-- text -->
+  <text x="80" y="106" fill="#A5B4FC" font-size="15" letter-spacing="7" font-weight="600">BACKEND ENGINEER</text>
+  <text x="77" y="170" fill="#F1F5F9" font-size="56" font-weight="700">Shreyas Nandurkar</text>
+  <rect x="81" y="190" width="118" height="4" rx="2" fill="url(#accent)"/>
+  <text x="80" y="228" fill="#94A3B8" font-size="20">Production backend systems &#183; clean architecture &#183; concurrency at scale</text>
+  <text x="80" y="265" fill="#7DD3FC" font-size="15" font-family="'SF Mono', Consolas, 'Roboto Mono', monospace">Java  &#8226;  Spring Framework  &#8226;  Redis  &#8226;  PostgreSQL  &#8226;  Docker</text>
+</svg>
