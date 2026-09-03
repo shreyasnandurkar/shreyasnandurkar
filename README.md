@@ -20,7 +20,7 @@ Final-year Computer Science student at Manipal Institute of Technology, Bengalur
 
 ### &nbsp;🔗&nbsp; GoLinkGone &nbsp;·&nbsp; <sub>live URL shortener & link-management platform</sub>
 
-Co-founder and backend engineer. Short links, click analytics, and customizable QR codes, serving real users. **10K+ pageviews · 500+ short links · 200+ signups.** Ranked #9 of 100+ products on Peerlist (Week 26); also launched on Product Hunt.
+Co-founder and backend engineer. Short links, click analytics, and customizable QR code studio, serving real users. **27K+ pageviews in just ~1.5 Months · 500+ Sign-Ups · 550+ short links created · 22k+ redirects served.** Ranked #9 of 100+ products on Peerlist (Week 26); also launched on Product Hunt.
 
 - **Customizable QR codes** — branded QR generation driven by a validated JSONB style configuration, persisted in custom storage and re-rendered on demand.
 - **Analytics pipeline** — a 10K-capacity click queue drained every 3 seconds via map/reduce into batched upserts, with murmur3-hashed visitor IDs on a virtual-thread executor.
