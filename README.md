@@ -63,6 +63,7 @@ Rebuilds the subject of one image using the pixels of another, streamed to a Web
 - **AI subject extraction** — U²-Net saliency model served via ONNX Runtime.
 - **Streaming** — custom binary WebSocket protocol (32-byte header + 256 KB chunks) feeding a Three.js instanced-points renderer with custom shaders.
 - **Concurrency** — dual-lane processing pipeline with buffer pooling, a global concurrency semaphore, and per-IP rate limiting.
+- Tried and loved by **100+** people.
 
 <p>
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
