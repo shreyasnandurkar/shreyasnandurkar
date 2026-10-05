@@ -23,7 +23,7 @@ Final-year Computer Science student at Manipal Institute of Technology, Bengalur
 Co-founder and backend engineer. Short links, click analytics, and customizable QR code studio, serving real users. **~28K pageviews · 1000+ Users · 1100+ short URLs created · 23k+ tracked clicks.** Ranked #9 of 100+ products on Peerlist (Week 26); also launched on Product Hunt.
 
 - **Customizable QR codes** — branded QR generation driven by a validated JSONB style configuration, persisted in custom storage and re-rendered on demand.
-- **Analytics pipeline** — a 30K-capacity click queue drained every 3 seconds via map/reduce into batched upserts, with murmur3-hashed visitor IDs on a virtual-thread executor.
+- **Analytics pipeline** — a 10K-capacity click queue drained every 3 seconds via map/reduce into batched upserts, with murmur3-hashed visitor IDs on a virtual-thread executor.
 - **Platform** — Caffeine caching, ES256 JWT auth, Bucket4j rate limiting, MaxMind GeoLite2 geolocation, host-based dual-domain routing, Supabase auth with Google SSO.
 
 <p>
